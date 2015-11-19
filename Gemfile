@@ -17,6 +17,8 @@ gem 'devise', '~> 3.4.1'
 gem 'paperclip', '~> 4.3', '>= 4.3.1'
 gem 'font-awesome-rails', '~> 4.4'
 
+gem 'will_paginate', '~> 3.0', '>= 3.0.7'
+
 group :development, :test do
   gem 'byebug'
 end
